@@ -1,4 +1,4 @@
-# Movie Webservice - Bài 3
+# Movie Webservice
 
 Webservice Java 17 đọc dữ liệu phim đã crawl ở Bài 2 từ SQLite và trả về JSON được format đẹp.
 
